@@ -1,0 +1,6 @@
+{
+  "name": "HeavyLink",
+  "description": "Heavy vehicle rental marketplace and equipment booking platform with AI vehicle finder and fleet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
